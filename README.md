@@ -52,6 +52,18 @@ A redução da entropia auditiva indica que a criptografia foi removida e que o 
 A estrutura sonora confirma a existência de **dados logicamente organizados e legíveis**.
 
 ---
+---
+
+## 📊 Evidência Visual – Análise de Amplitude e Bits
+
+A imagem abaixo ilustra uma análise pericial baseada na variação de amplitude do sinal, evidenciando a modificação de bits em nível LSB (Least Significant Bit).
+
+![Análise Forense de Amplitude e Bits LSB](images/laudo_pericial_lsb.png)
+
+📌 **Interpretação Forense**  
+As alterações discretas na amplitude, imperceptíveis ao ouvido humano, indicam a presença de dados embutidos no sinal de áudio. Esse tipo de modificação é característico de técnicas de **esteganografia sonora**, utilizadas para ocultar informações em fluxos aparentemente legítimos.
+
+---
 
 ## 🛠️ Arquitetura Técnica
 
